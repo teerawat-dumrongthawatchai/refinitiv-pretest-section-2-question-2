@@ -1,0 +1,20 @@
+.container {
+    max-width: 1368px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 15px 10px;
+}
+
+.filter_container {
+    margin-bottom: 1.5rem;
+}
+
+.content_container {
+    table {
+        tbody{
+            max-height: 600px;
+            overflow-y: auto;
+            width: 100%;
+        }
+    }
+}
